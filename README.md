@@ -16,6 +16,6 @@ vite + ts + vue3 + elementPlus + axios二次封装
    ![Alt text](image-4.png)
    ## 新建笔记
    ![Alt text](image-6.png)
-   ## 其他功能见项目内容
+   ## 其他功能见项目
 
  
